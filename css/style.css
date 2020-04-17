@@ -1,0 +1,44 @@
+.top-social-bar{
+    width: 100%;
+    background-color: #000000;
+}
+.top-social-bar-inner{
+    width: 100%;
+    display: flex;
+    padding: 08px 0;
+}
+.social-bar-left{
+    width: 50%;
+}
+.social-bar-left ul{
+
+}
+.social-bar-left ul li{
+    display: inline-block;
+    list-style: none;
+    margin-right:08px;
+}
+.social-bar-left ul li a{
+    color: gray;
+    text-decoration: none;
+}
+.social-bar-right{
+    text-align: end;
+    width: 50%;
+}
+.social-bar-right a{
+    color: gray;
+    text-decoration: none;
+}
+.top-nav-bar{
+    background-color: #0d426d;
+}
+.top-nav-bar-inner{
+    background-color: #0d426d!important;
+}
+.top-nav-bar-inner img{
+    width: 60%;
+}
+.top-nav-bar-inner a{
+    color: #ffffff;
+}
